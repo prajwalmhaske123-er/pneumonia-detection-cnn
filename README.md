@@ -95,13 +95,6 @@ Input (150x150x3)
 | Custom CNN | ~90% | ~89% | ~95% | ~92% |
 | VGG16 Transfer | ~92% | ~91% | ~96% | ~93% |
 
-### Training Curves
-| Accuracy | Loss |
-|----------|------|
-| ![Accuracy](Outputs/val_accuracy_epochs.png) | ![Loss](Outputs/val_loss_epochs.png) |
-
-### Confusion Matrix
-![Confusion Matrix](Outputs/xray_confusion_matrix.png)
 
 ---
 
