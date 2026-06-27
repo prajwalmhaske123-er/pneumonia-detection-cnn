@@ -98,10 +98,10 @@ Input (150x150x3)
 ### Training Curves
 | Accuracy | Loss |
 |----------|------|
-| ![Accuracy](Outputs/accuracy%20vs%20epochs.png) | ![Loss](Outputs/loss%20vs%20epochs.png) |
+| ![Accuracy](Outputs/val_accuracy_epochs.png) | ![Loss](Outputs/val_loss_epochs.png) |
 
 ### Confusion Matrix
-![Confusion Matrix](Outputs/confusion%20matrix.png)
+![Confusion Matrix](Outputs/xray_confusion_matrix.png)
 
 ---
 
